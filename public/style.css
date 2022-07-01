@@ -39,7 +39,7 @@ button {
     margin-top: 20px;
     width: 700px;
     height: 500px;
-    border: 2px solid #c2c6b6;
+    border: 2px solid #fff;
     display: flex;
     flex-direction: column;
     align-content: space-between;
@@ -62,11 +62,11 @@ button {
     position: absolute;
     left: 0px;
     top: 0px;
-    background-color: rgb(110, 103, 103);
+    background-color: #F6CC09;
 }
 
 .online .users-online {
-    background-color: rgb(110, 103, 103);
+    background-color: #F6CC09;
     color: white;
     text-align: center;
     font-size: 40px;
